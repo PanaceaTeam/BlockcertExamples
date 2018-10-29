@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
-  "id": "https://raw.githubusercontent.com/PanaceaTeam/BlockcertExamples/master/issuers/universidad_del_centro/revocation-list.json",
+  "id": "https://raw.githubusercontent.com/PanaceaTeam/BlockcertExamples/master/issuers/universidad-del-centro/revocation-list.json",
   "type": "RevocationList",
   "issuer": "https://raw.githubusercontent.com/PanaceaTeam/BlockcertExamples/master/issuers/universidad-del-centro/issuer.json",
   "revokedAssertions": [
